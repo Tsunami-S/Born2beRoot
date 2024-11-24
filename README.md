@@ -3,4 +3,4 @@
 * Oracle VM VirtualBox7.0
 * Debian 12.8.0
 
-The files in this repository are a collection of studies for Born2beRoot and were created to practice Markdown notation.
+The files in this repository are a collection of studies for Born2beRoot and were created to practice Markdown notation in japanese.
